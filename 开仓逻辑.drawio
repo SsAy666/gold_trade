@@ -85,7 +85,7 @@
         <mxCell id="pigm44O5y9vKRpHgGOST-28" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;是否有信号&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="300" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pigm44O5y9vKRpHgGOST-31" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;直接入场&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="pigm44O5y9vKRpHgGOST-31" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;入场&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-20" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rp3z6hzUZIT70qv3QeRL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rp3z6hzUZIT70qv3QeRL-3" target="pigm44O5y9vKRpHgGOST-31">
